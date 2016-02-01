@@ -1,6 +1,6 @@
 {
   "name": "grunt-newman",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Grunt plugin for Newman - The collection runner for Postman",
   "homepage": "https://github.com/sudazzle/grunt-newman",
   "repository": {
@@ -25,7 +25,7 @@
     }
   ],
   "dependencies": {
-    "newman": "sudazzle/newman#v2.3.2",
+    "newman": "sudazzle/newman#v2.3.3",
     "unirest": "*",
     "lodash": "*",
     "json5": "*"
